@@ -1,20 +1,9 @@
-[![License](https://img.shields.io/badge/license-GPLv2-green.svg)](https://raw.githubusercontent.com/urbanadventurer/whatweb/master/LICENSE)
-![logo](https://www.morningstarsecurity.com/wp-content/uploads/2019/02/WhatWeb-Logo-800px.png "WhatWeb Logo")
 
 # WhatWeb - Next generation web scanner
 Developed by Andrew Horton [urbanadventurer](https://github.com/urbanadventurer/) and Brendan Coles [bcoles](https://github.com/bcoles/)
 
-Latest Release: v0.5.0. June 9th, 2019
+Latest Release: v0.5.0. SEP 1st, 2019
 
-License: GPLv2
-
-This product is subject to the terms detailed in the license agreement. For more information about WhatWeb visit:
-
-Homepage: https://www.morningstarsecurity.com/research/whatweb
-
-Wiki: https://github.com/urbanadventurer/WhatWeb/wiki/
-
-If you have any questions, comments or concerns regarding WhatWeb, please consult the documentation prior to contacting one of the developers. Your feedback is always welcome. 
 
 ##  Contents
 
@@ -368,19 +357,6 @@ To enable character set detection and MongoDB logging install the rchardet gem.
   gem install rchardet
   cp plugins-disabled/charset.rb my-plugins/
 
-## Writing Plugins
-
-Plugins are easy to write. Start by going through the plugin tutorials in the *my-plugins/* folder.
-
-* [Plugin Tutorials](https://github.com/urbanadventurer/WhatWeb/tree/master/my-plugins).
-
-An overview of the plugin tutorials is here. [plugin-tutorials.txt](https://github.com/urbanadventurer/WhatWeb/tree/master/plugin-development/plugin-tutorials.txt)
-
-After progressing through the tutorials read through the Development section of the [wiki](https://github.com/urbanadventurer/WhatWeb/wiki/). 
-
-* [Sources for Plugin Writing](https://github.com/urbanadventurer/WhatWeb/wiki/Sources-for-Plugin-Writing)
-* [How to Develop WhatWeb Plugins (not up to date)](https://github.com/urbanadventurer/WhatWeb/wiki/How-to-develop-WhatWeb-plugins)
-
 ## Updates & Additional Information
 
 The WhatWeb development build features regular updates.
@@ -389,90 +365,6 @@ The WhatWeb development build features regular updates.
 
 Browse the wiki for more documentation and advanced usage techniques.
 
-* Wiki: https://github.com/urbanadventurer/WhatWeb/wiki/
 
-## Release History
-
-- Version 0.5.0 Released June 9th, 2019
-- Version 0.4.9 Released November 23rd, 2017
-- Version 0.4.8-dev (Continuous release from 2012 to 2017)
-- Version 0.4.7 Released April 5th, 2011
-- Version 0.4.6 Released March 25th, 2011
-- Version 0.4.5 Released August 17th, 2010
-- Version 0.4.4 Released June 29th, 2010
-- Version 0.4.3 Released May 24th, 2010
-- Version 0.4.2 Released April 30th, 2010
-- Version 0.4.1 Released April 28th, 2010
-- Version 0.4   Released March 14th, 2010
-- Version 0.3   Released at Kiwicon III (kiwicon.org), November 2nd, 2009
-
-## Credits
-
-### Developers
-
-+ Andrew Horton (@urbanadventurer)
-+ Brendan Coles (@bcoles)
-
-### Contributors
-
-Thank you to the following people who have contributed to WhatWeb. 
-
-+ Emilio Casbas
-+ Louis Nyffenegger
-+ Patrik Wallström (@pawal)
-+ Caleb Anderson (@dirtyfilthy)
-+ Tonmoy Saikia
-+ Aung Khant (@yehgdotnet)
-+ Erik Inge Bolsø
-+ nk@dsigned.gr
-+ Steve Milner (@ashcrow)
-+ Michal Ambroz
-+ Gremwell
-+ Sagar Prakash Junnarkar (@sagarjunnarkar)
-+ GertBerger 
-+ Quintin Poirier
-+ Eric Sesterhenn
-+ dengjw (@jawa)
-+ Pedro Worcel (@droop)
-+ Matthieu Keller (@maggick)
-+ Peter (2pvdl)
-+ Napz (@RootCon)
-+ @nilx042
-+ Fabian Affolter (@fabaff)
-+ Andrew Silvernail (@buff3r)
-+ Andre Ricardo (@andrericardo)
-+ nikosk
-+ Patrick Thomas (@coffeetocode)
-+ Guillaume Delcaour (@guikcd)
-+ Sean (@wiifm69)
-+ Matthieu Keller (@maggick)
-+ Raul (@raurodse)
-+ Andrew Petro (@apetro)
-+ Artem Taranyuk (@610)
-+ Matti Paksula (@matti)
-+ Tim Smith (@tas50)
-+ Sarthak Munshi (@saru95)
-+ @rdubourguais
-+ @SlivTaMere
-+ @Code0x58
-+ @iGeek098
-+ @andreas-becker
-+ @csalazar
-+ @golewski
-+ @Allactaga
-+ @lins05
-+ @eliasdorneles
-+ @sigit
-+ dewanto
-+ @elcodigok 
-+ @SlivTaMere
-+ @anozoozian
-+ Bhavin Senjaliya (@bhavin1223)
-+ Janosch Maier (@Phylu)
-+ @rmaksimov
-+ Naglis Jonaitis (@naglis)
-+ Igor Rzegocki (@ajgon)
-+ Melvil Guillaume (@mguillau42)
-
-Please let me know if I need to add any more names. 
-
+get me @telegram
+https://t.me/alex14324
